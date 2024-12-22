@@ -4,6 +4,7 @@
 
 # Salvando alterações no GIT
 
+* uso do comando git restore  
 
 # Curso de JavaScript
 
