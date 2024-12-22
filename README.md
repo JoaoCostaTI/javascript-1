@@ -1,5 +1,7 @@
 <img src="imagens/mascote.png" align="right" width="300">
 
+# Estou editando o arquivo para o curso do Santander Ada Tech
+
 # Curso de JavaScript
 
 Material público para o ensino básico de JavaScript para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
